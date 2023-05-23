@@ -5,6 +5,7 @@ import { StyleSheet } from "react-native";
 import Icon from "react-native-vector-icons/AntDesign";
 import eye from "react-native-vector-icons"
 import Lottie from "lottie-react-native";
+
 import { Dimensions } from "react-native";
 
 const Login = ({ navigation }) => {
